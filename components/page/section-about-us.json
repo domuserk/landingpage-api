@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_section_aboutuses",
+  "info": {
+    "name": "sectionAboutUs",
+    "icon": "grin",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "title": {
+      "type": "string",
+      "required": true
+    },
+    "authors": {
+      "collection": "author"
+    }
+  }
+}
+
